@@ -1,0 +1,19 @@
+{
+    "name": "ibatidosBack",
+    "version": "0.0.1",
+    "description": "description ibatidosBack",
+    "main": "index.js",
+    "scripts": {
+        "start": "sempliceWatch --exec node index.js"
+    },
+    "keywords": [
+        "ibatidosBack"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "fi-khipu": "^0.1.0",
+        "semplice": "0.0.2",
+        "semplice-watch": "0.0.2"
+    }
+}
